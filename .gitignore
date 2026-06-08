@@ -1,0 +1,31 @@
+/[Ll]ibrary/
+/[尝尝]ogs/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Pp][尝尝]astic/
+/[𝘜𝘶]ser[𝘚𝘴]ettings/
+
+# Visual Studio / Rider generated files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+
+# Block iOS and build output folders specifically
+/9th iOS Build/
+/9th iOS Build_BurstDebugInformation_DoNotShip/
+*.a
+*.framework/

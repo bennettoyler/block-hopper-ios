@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c1efa96261c62458526846ed221e07, type: 3}
+  m_Name: Color Picker
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: f675cc41f6f0bee40862069afdd0ec31, type: 2}
+  - {fileID: 11400000, guid: 262a060272b84764893e7ff95a04c990, type: 2}
+  - {fileID: 11400000, guid: ec256d7c1e2379644ad7801551f9c921, type: 2}
+  - {fileID: 11400000, guid: 7e18f4b2ca30efe42a3b4f14d1899578, type: 2}
+  - {fileID: 11400000, guid: 7ecf6a8244233534dafb667a4df22780, type: 2}
+  - {fileID: 11400000, guid: f8232409d07e4d843be5827a4f9d36ab, type: 2}
+  activeColorOption: {fileID: 11400000, guid: 7ecf6a8244233534dafb667a4df22780, type: 2}

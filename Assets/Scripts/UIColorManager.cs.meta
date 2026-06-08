@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7fa6153675eb8740a478ff8f5790003
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uiColorOptionPrefab: {fileID: 1043231286829080906, guid: a58b4cab83fc64248a2f569bc4f87e19,
+      type: 3}
+  - colorPicker: {fileID: 11400000, guid: e633f0b6e262c17419f9be25711fc562, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

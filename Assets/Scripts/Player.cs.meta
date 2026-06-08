@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c69e25f8a1ed3ed4d95d6f9f45a97d64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - platformGeneration: {instanceID: 0}
+  - GroundCheck: {instanceID: 0}
+  - displayedScore: {instanceID: 0}
+  - scoreKeeper: {fileID: 11400000, guid: dff9121298e03b74fae415516d52a74c, type: 2}
+  - jumpSoundEffect: {instanceID: 0}
+  - landingSoundEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
